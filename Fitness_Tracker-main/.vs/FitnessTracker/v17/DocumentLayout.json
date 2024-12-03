@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIUT\\Web\\CW\\FitnessTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|d:\\wiut\\web\\cw\\fitnesstracker\\fitnesstracker.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|d:\\wiut\\web\\cw\\fitnesstracker\\fitnesstracker.api\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|D:\\WIUT\\Web\\CW\\FitnessTracker\\fitnesstracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|D:\\WIUT\\Web\\CW\\FitnessTracker\\fitnesstracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|D:\\WIUT\\Web\\CW\\FitnessTracker\\fitnesstracker.api\\data\\fitnesstrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\data\\fitnesstrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|D:\\WIUT\\Web\\CW\\FitnessTracker\\fitnesstracker.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|D:\\WIUT\\Web\\CW\\FitnessTracker\\fitnesstracker.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|D:\\WIUT\\Web\\CW\\FitnessTracker\\fitnesstracker.api\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|d:\\wiut\\web\\cw\\fitnesstracker\\fitnesstracker.api\\data\\migrations\\20241202182811_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\data\\migrations\\20241202182811_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|D:\\WIUT\\Web\\CW\\FitnessTracker\\fitnesstracker.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|D:\\WIUT\\Web\\CW\\FitnessTracker\\fitnesstracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85335703-FF4F-4A45-9A90-7B9DBCB0ED3F}|FitnessTracker.Api\\FitnessTracker.Api.csproj|solutionrelative:fitnesstracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:944500532:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:614735943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:24:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivitiesController.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Controllers\\ActivitiesController.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Controllers\\ActivitiesController.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Controllers\\ActivitiesController.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\Controllers\\ActivitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:21:49.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FitnessTrackerContext.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Data\\FitnessTrackerContext.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Data\\FitnessTrackerContext.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Data\\FitnessTrackerContext.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\Data\\FitnessTrackerContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:06:50.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Models\\Activity.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Models\\Activity.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\Models\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:54:51.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Models\\User.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Models\\User.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:54:01.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\appsettings.json",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\appsettings.json",
+              "RelativeToolTip": "FitnessTracker.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T06:14:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:51:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Program.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Program.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:46:32.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241202182811_Initial.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Data\\Migrations\\20241202182811_Initial.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Data\\Migrations\\20241202182811_Initial.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Data\\Migrations\\20241202182811_Initial.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\Data\\Migrations\\20241202182811_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:28:11.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FitnessTracker.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T05:51:17.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FitnessTracker.Api\\WeatherForecast.cs",
+              "ToolTip": "D:\\WIUT\\Web\\CW\\FitnessTracker\\FitnessTracker.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "FitnessTracker.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:51:40.881Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
